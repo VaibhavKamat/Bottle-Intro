@@ -1,2 +1,2 @@
 # Bottle-Intro
-Exploring Bottle (Python) framework.
+Exploring Bottle framework.
